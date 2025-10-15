@@ -19,10 +19,12 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  /* font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; */
   font-weight: 700;
   line-height: 1.2;
-  color: #1a1a1a;
+  color: #2e0101;
+  font-family: 'Dancing Script', cursive;
+
 
 }
 
@@ -35,7 +37,7 @@ img {
 a {
   text-decoration: none;
   color: inherit;
-background-color: #1a1a1a;
+background-color: #2e0101;
   color: #fef5f1;
   border-radius: 15px;
   padding: 1vw;
@@ -76,20 +78,20 @@ background-color: #1a1a1a;
   font-weight: 800;
   margin-bottom: 16px;
   letter-spacing: -0.02em;
-  color: #1a1a1a;
+  color: #5c0101;
 }
 
 .hero-subtitle {
   font-size: clamp(1.4rem, 3vw, 1.9rem);
   font-weight: 500;
-  color: #666;
+  color: #2e0101;
   margin-bottom: 12px;
   font-family: 'Montserrat', sans-serif;
 }
 
 .hero-tagline {
   font-size: clamp(1.2rem, 2.5vw, 1.5rem);
-  color: #888;
+  color: #2e0101;
   margin-bottom: 40px;
   font-style: italic;
 }
@@ -188,14 +190,14 @@ background-color: #1a1a1a;
 .section-title {
   font-size: clamp(2rem, 4vw, 3rem);
   margin-bottom: 32px;
-  color: #1a1a1a;
+  color: #2e0101;
 }
 
 .section-title-center {
   font-size: clamp(2rem, 4vw, 3rem);
   text-align: center;
   margin-bottom: 48px;
-  color: #1a1a1a;
+  color: #2e0101;
 }
 
 /* Text Content Center */
@@ -208,7 +210,7 @@ background-color: #1a1a1a;
 .text-content-center p {
   font-size: 1.1rem;
   line-height: 1.8;
-  color: #4a4a4a;
+  color: #2e0101;
   margin-bottom: 20px;
 }
 
@@ -224,7 +226,7 @@ background-color: #1a1a1a;
 .about-text-large p {
   font-size: clamp(1.3rem, 2.5vw, 1.6rem);
   line-height: 1.9;
-  color: #2d2d2d;
+  color: #2e0101;
   font-weight: 400;
   margin-bottom: 28px;
 }
@@ -325,7 +327,7 @@ background-color: #1a1a1a;
   font-size: 1.35rem;
   font-weight: 600;
   margin-bottom: 12px;
-  color: #1a1a1a;
+  color: #2e0101;
 }
 
 .portfolio-desc {
